@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sayt{
+    width: 1200px;
+    height: 600px;
+   
+    margin: 40px 0 0 20px;
+
+}
+.card{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin: 130px 0 0 400px;
+   
+    
+
+
+}
+.card1{
+    width: 300px;
+    margin: 85px 0 0 98px;
+    height: 300px;
+    border-radius: 150px;
+    background-image: linear-gradient(to right top, rgb(212, 223, 71) , rgb(232, 235, 91), rgb(232, 240, 130), rgb(230, 68, 89),rgb(199, 43, 173) ,rgb(172, 47, 221)) ;
+    padding-top: 5px;
+    
+
+
+}
+.card2{
+    width: 200px;
+    height: 200px;
+    margin: 35px 0 0 40px;
+    border-radius: 80px;
+    border: 15px solid white;
+   
+}
+.card3{
+    width: 100px;
+    height: 100px;
+    margin: 37px 0 0 30px;
+    border-radius: 150px;
+    border: 15px solid white;
+
+}
+.card4{
+    width: 10px;
+    height: 10px;
+    margin: -40px 0 0 85px;
+    border-radius: 150px;
+    border: 15px solid white;
+    background-color: white;
+
+
+}
